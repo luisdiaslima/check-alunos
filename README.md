@@ -1,9 +1,11 @@
-# Consumindo minha API
+# Consumindo minha API - Check Alunos
 
 ## Preview
 ![](/src/img/aluno1.PNG)
 ![](/src/img/aluno2.PNG)
 ![](/src/img/aluno3.PNG)
+
+## Dando Start
 
 Você precisará do NodeJS instalado em sua máquina.
 

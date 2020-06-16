@@ -28,7 +28,7 @@ export default function Login(props) {
 
     if (password.length < 6 || password.length > 50) {
       formErrors = true;
-      toast.error('Senha deverpa ter entre 6 e 50 caracteres');
+      toast.error('Senha deverá ter entre 6 e 50 caracteres');
     }
 
     if (formErrors) return;

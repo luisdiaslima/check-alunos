@@ -34,10 +34,11 @@ Foi consumida a API criada por mim, e que está disponibilizada aqui mesmo no Gi
 - NodeJS
 - Toast
 - React Redux
+- Hooks
 
 ## Relevâncias
 
-Promovido a experiência de integração ao consumir uma API com ReactJS, usar as tecnologias mais desejadas no mercado, definir rotas SPA, cria um sistema de login, register e logout, criar rotas privadas para melhor segurança do usuário e utilizar redux saga para o controle de operações assíncronas.
+Promovido a experiência de integração ao consumir uma API com ReactJS, usar as tecnologias mais desejadas no mercado, definir rotas SPA, criar um sistema de login, register e logout, definição de estados com Hooks, criar rotas privadas para melhor segurança do usuário e utilizar redux saga para o controle de operações assíncronas.
 
 ## Agradecimento
 
